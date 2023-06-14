@@ -1,0 +1,214 @@
+[
+    {
+        "id": "1",
+        "name": "Chevrolet chevelle malibu",
+        "price": "39956",
+        "type": "Used vehicle",
+        "model": "malibu",
+        "firstRegistration": "05/2010",
+        "mainImage": "https://c4.wallpaperflare.com/wallpaper/79/945/178/vehicle-car-chevrolet-chevelle-american-cars-wallpaper-preview.jpg",
+        "images": {
+            "image1": "https://c4.wallpaperflare.com/wallpaper/445/911/717/chevrolet-chevelle-red-coupe-wallpaper-preview.jpg",
+            "image2": "https://c4.wallpaperflare.com/wallpaper/311/816/54/chevrolet-chevelle-396-l34-wallpaper-preview.jpg",
+            "image3": "https://c4.wallpaperflare.com/wallpaper/308/278/481/chevrolet-chevelle-ss-red-wallpaper-preview.jpg",
+            "image4": "https://c4.wallpaperflare.com/wallpaper/804/576/947/chevrolet-chevelle-classic-cars-wallpaper-preview.jpg",
+            "image5": "https://c4.wallpaperflare.com/wallpaper/134/549/95/muscle-cars-chevrolet-chevelle-ss-1280x960-cars-chevrolet-hd-art-wallpaper-preview.jpg",
+            "image6": "https://c4.wallpaperflare.com/wallpaper/976/763/693/chevrolet-chevelle-ss-396-1969-wallpaper-preview.jpg"
+        },
+        "mileage": "500km",
+        "fuel": "diesel",
+        "engineSize": "2900 cc",
+        "power": "130hp",
+        "gearbox": "manual",
+        "numberOfSeats": 4,
+        "doors": "2/3",
+        "color": "red",
+        "desc": [
+            "-Colour coded bumpers",
+            "- Tinted glass",
+            "- Immobiliser",
+            "- Central locking - remote",
+            "- Passenger airbag",
+            "- Rear head rests",
+            "- Electric windows",
+            "- Radio",
+            "- CD player",
+            "- Ideal first car",
+            "- Warranty",
+            "- High level brake light",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        ],
+        "vehicleExtras": [
+            "- ABS",
+            "-Leather seats",
+            "-Power Assisted Steering",
+            "-Electric heated seats",
+            "-Electric heated seats",
+            "-Electric heated seats"
+        ],
+        "contact": {
+            "name": "John Smith",
+            "phone": "08283820",
+            "email": "@gmail"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Ford galaxie 500",
+        "price": "45000",
+        "type": "Used vehicle",
+        "model": "Ford",
+        "firstRegistration": "05/2010",
+        "mainImage": "https://c4.wallpaperflare.com/wallpaper/816/321/209/1963-500-black-cars-wallpaper-preview.jpg",
+        "images": {
+            "image1": "https://c4.wallpaperflare.com/wallpaper/565/885/77/1963-427-500-classic-wallpaper-preview.jpg",
+            "image2": "https://c4.wallpaperflare.com/wallpaper/552/109/158/ford-ford-galaxie-500-wallpaper-preview.jpg",
+            "image3": "https://c4.wallpaperflare.com/wallpaper/891/364/1003/vehicles-race-car-ford-galaxie-500-xl-427-lightweight-wallpaper-preview.jpg",
+            "image4": "https://c4.wallpaperflare.com/wallpaper/417/514/337/1964-500-convertible-ford-wallpaper-preview.jpg",
+            "image5": "https://c4.wallpaperflare.com/wallpaper/511/212/988/1967-500-car-ford-wallpaper-preview.jpg",
+            "image6": "https://c4.wallpaperflare.com/wallpaper/322/275/663/500-967-ford-galaxie-wallpaper-preview.jpg"
+        },
+        "mileage": "400km",
+        "fuel": "diesel",
+        "engineSize": "1800 cc",
+        "power": "165hp",
+        "gearbox": "manual",
+        "numberOfSeats": 4,
+        "doors": "2/3",
+        "color": "black",
+        "desc": [
+            "-Colour coded bumpers",
+            "- Tinted glass",
+            "- Immobiliser",
+            "- Central locking - remote",
+            "- Passenger airbag",
+            "- Rear head rests",
+            "- Electric windows",
+            "- Radio",
+            "- CD player",
+            "- Ideal first car",
+            "- Warranty",
+            "- High level brake light",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        ],
+        "vehicleExtras": [
+            "- ABS",
+            "-Leather seats",
+            "-Power Assisted Steering",
+            "-Electric heated seats",
+            "-Electric heated seats",
+            "-Electric heated seats"
+        ],
+        "contact": {
+            "name": "John Smith",
+            "phone": "08283820",
+            "email": "@gmail"
+        }
+    },
+    {
+        "id": "3",
+        "name": "chevrolet impala",
+        "price": "89000",
+        "type": "Used vehicle",
+        "model": "chevrolet",
+        "firstRegistration": "05/2010",
+        "mainImage": "https://c4.wallpaperflare.com/wallpaper/437/971/611/1964-auto-automobile-car-wallpaper-preview.jpg",
+        "images": {
+            "image1": "https://c4.wallpaperflare.com/wallpaper/181/208/40/car-vehicle-impala-chevrolet-wallpaper-preview.jpg",
+            "image2": "https://c4.wallpaperflare.com/wallpaper/945/727/734/car-chevrolet-impala-wallpaper-preview.jpg",
+            "image3": "https://c4.wallpaperflare.com/wallpaper/64/155/676/retro-chevrolet-classic-1967-wallpaper-preview.jpg",
+            "image4": "https://c4.wallpaperflare.com/wallpaper/676/308/1019/chevrolet-convertible-chevrolet-impala-wallpaper-preview.jpg",
+            "image5": "https://c4.wallpaperflare.com/wallpaper/461/29/138/1963-chevrolet-custom-gangsta-wallpaper-preview.jpg",
+            "image6": "https://c4.wallpaperflare.com/wallpaper/354/612/956/the-crew-chevrolet-impala-front-view-games-wallpaper-preview.jpg"
+        },
+        "mileage": "9000km",
+        "fuel": "diesel",
+        "engineSize": "1800 cc",
+        "power": "85hp",
+        "gearbox": "manual",
+        "numberOfSeats": 4,
+        "doors": "2/3",
+        "color": "black",
+        "desc": [
+            "-Colour coded bumpers",
+            "- Tinted glass",
+            "- Immobiliser",
+            "- Central locking - remote",
+            "- Passenger airbag",
+            "- Rear head rests",
+            "- Electric windows",
+            "- Radio",
+            "- CD player",
+            "- Ideal first car",
+            "- Warranty",
+            "- High level brake light",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        ],
+        "vehicleExtras": [
+            "- ABS",
+            "-Leather seats",
+            "-Power Assisted Steering",
+            "-Electric heated seats",
+            "-Electric heated seats",
+            "-Electric heated seats"
+        ],
+        "contact": {
+            "name": "John Smith",
+            "phone": "08283820",
+            "email": "@gmail"
+        }
+    },
+    {
+        "id": "4",
+        "name": "Pontiac catalina",
+        "price": "23000",
+        "type": "Used vehicle",
+        "model": "Pontiac",
+        "firstRegistration": "05/2010",
+        "mainImage": "https://c4.wallpaperflare.com/wallpaper/228/18/437/pontiac-catalina-421-convertible-wallpaper-preview.jpg",
+        "images": {
+            "image1": "https://c4.wallpaperflare.com/wallpaper/776/121/101/1959-catalina-classic-convertible-wallpaper-preview.jpg",
+            "image2": "https://c4.wallpaperflare.com/wallpaper/282/753/254/1965-1969-catalina-firebird-wallpaper-preview.jpg",
+            "image3": "https://c4.wallpaperflare.com/wallpaper/627/749/121/1959-catalina-convertible-pontiac-wallpaper-preview.jpg",
+            "image4": "https://c4.wallpaperflare.com/wallpaper/713/487/718/1957-cars-catalina-chieftain-wallpaper-preview.jpg",
+            "image5": "https://c4.wallpaperflare.com/wallpaper/328/805/125/1960-catalina-classic-convertible-wallpaper-preview.jpg",
+            "image6": "https://c4.wallpaperflare.com/wallpaper/777/576/957/1955-catalina-coupe-hardtop-wallpaper-preview.jpg"
+        },
+        "mileage": "5000km",
+        "fuel": "diesel",
+        "engineSize": "1800 cc",
+        "power": "85hp",
+        "gearbox": "manual",
+        "numberOfSeats": 4,
+        "doors": "2/3",
+        "color": "black",
+        "desc": [
+            "-Colour coded bumpers",
+            "- Tinted glass",
+            "- Immobiliser",
+            "- Central locking - remote",
+            "- Passenger airbag",
+            "- Rear head rests",
+            "- Electric windows",
+            "- Radio",
+            "- CD player",
+            "- Ideal first car",
+            "- Warranty",
+            "- High level brake light",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        ],
+        "vehicleExtras": [
+            "- ABS",
+            "-Leather seats",
+            "-Power Assisted Steering",
+            "-Electric heated seats",
+            "-Electric heated seats",
+            "-Electric heated seats"
+        ],
+        "contact": {
+            "name": "John Smith",
+            "phone": "08283820",
+            "email": "@gmail"
+        }
+    }
+]

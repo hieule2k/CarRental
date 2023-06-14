@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  body {
+    font-family: "webfont2";
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    max-width: 1440px;
+  }
+  input {
+    @apply outline-none;
+  }
+  * {
+
+    scroll-behavior: smooth !important;
+  }
+}
+
+@font-face {
+    font-family: "webfont";
+    src: url('./assets/fonts/fontawesome-webfont.woff2');
+  }
+
+  @font-face {
+    font-family: "webfont2";
+    src: url('./assets//fonts/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2');
+  }
